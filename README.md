@@ -4,7 +4,7 @@
 - 🎥 And also nearing completion of my technical course in film directing.
 - 😁 I am optimistic about the future opportunities that these accomplishments will bring..
 - 💞️ I am eager to engage in collaborative endeavors focused on research and studies that have the potential to yield favorable results for both myself and my colleagues.
-- 📫 This is my personal e-mail: crisbrasil.telefone@gmail.com
+- 📫 You can contact me via this GitHub profile
 
 <!---
 Crisbrasil7/Crisbrasil7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
